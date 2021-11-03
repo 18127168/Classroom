@@ -3,14 +3,9 @@ import React, { Component } from 'react';
 import { Card } from 'react-bootstrap';
 
 export default class Classroom extends Component {
-    constructor(props){
-        super(props);
-    
-    }
-
     render(){
         return(
-        <Card>
+        <Card className="classroom text-center">
             <p>{this.props.dataClass.name}</p>
         </Card>
         )
