@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.38c3f2de.chunk.css",
-    "main.js": "/static/js/main.01a2b78a.chunk.js",
-    "main.js.map": "/static/js/main.01a2b78a.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.8f0d7f8c.js",
-    "runtime-main.js.map": "/static/js/runtime-main.8f0d7f8c.js.map",
-    "static/js/2.d3648181.chunk.js": "/static/js/2.d3648181.chunk.js",
-    "static/js/2.d3648181.chunk.js.map": "/static/js/2.d3648181.chunk.js.map",
-    "static/js/3.c1e063dc.chunk.js": "/static/js/3.c1e063dc.chunk.js",
-    "static/js/3.c1e063dc.chunk.js.map": "/static/js/3.c1e063dc.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.38c3f2de.chunk.css.map": "/static/css/main.38c3f2de.chunk.css.map",
-    "static/js/2.d3648181.chunk.js.LICENSE.txt": "/static/js/2.d3648181.chunk.js.LICENSE.txt"
+    "main.css": "/Classroom/static/css/main.38c3f2de.chunk.css",
+    "main.js": "/Classroom/static/js/main.01a2b78a.chunk.js",
+    "main.js.map": "/Classroom/static/js/main.01a2b78a.chunk.js.map",
+    "runtime-main.js": "/Classroom/static/js/runtime-main.5f803859.js",
+    "runtime-main.js.map": "/Classroom/static/js/runtime-main.5f803859.js.map",
+    "static/js/2.d3648181.chunk.js": "/Classroom/static/js/2.d3648181.chunk.js",
+    "static/js/2.d3648181.chunk.js.map": "/Classroom/static/js/2.d3648181.chunk.js.map",
+    "static/js/3.c1e063dc.chunk.js": "/Classroom/static/js/3.c1e063dc.chunk.js",
+    "static/js/3.c1e063dc.chunk.js.map": "/Classroom/static/js/3.c1e063dc.chunk.js.map",
+    "index.html": "/Classroom/index.html",
+    "static/css/main.38c3f2de.chunk.css.map": "/Classroom/static/css/main.38c3f2de.chunk.css.map",
+    "static/js/2.d3648181.chunk.js.LICENSE.txt": "/Classroom/static/js/2.d3648181.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8f0d7f8c.js",
+    "static/js/runtime-main.5f803859.js",
     "static/js/2.d3648181.chunk.js",
     "static/css/main.38c3f2de.chunk.css",
     "static/js/main.01a2b78a.chunk.js"
